@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\kgolonka\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\kgolonka\\.nuget\\packages"
+    ]
+  }
+}
